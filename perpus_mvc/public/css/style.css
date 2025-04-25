@@ -1,0 +1,28 @@
+table {
+    width: 100%;
+}
+
+a#add {
+    float: right;
+}
+
+form {
+    width: 100%;
+}
+
+form input {
+    width: 100%;
+    margin-block: .5rem;
+}
+
+#edit {
+    border: 1px solid #ddd;
+    width: 50%;
+    padding: 3rem;
+}
+
+#tambah {
+    border: 1px solid #ddd;
+    width: 50%;
+    padding: 3rem;
+}
